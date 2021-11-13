@@ -1,4 +1,5 @@
-# Magento2Commands
+# Magento 2 / Adobe Commerce Commands
+
 Useful commands used in Magento 2 development
 
 ## Code compilation
